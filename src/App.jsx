@@ -20,7 +20,7 @@ function App() {
         width="150"
       />
       
-      <h1>React Button Component</h1>
+      <h1>React Buttons</h1>
       <Button 
         text={`Clicked ${count} times`} 
         onClick={handleClick} 
