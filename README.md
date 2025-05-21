@@ -15,3 +15,4 @@ A simple React project demonstrating a reusable Button component.
 2. Install dependencies:
    ```bash
    npm install
+   npm run dev
